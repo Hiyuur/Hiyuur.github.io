@@ -6,9 +6,11 @@ DroneSwarms consists of 9,109 images and 242,218 annotated UAV instances, with 2
 
 ## Download
 Thank you for your interest in our anti-uav dataset. To ensure the appropriate use of the dataset and mitigate potential risks associated with improper military applications, **we kindly request all dataset requesters to download and fill out the form provided below.** Please send the completed form to **yaohaiyu@tju.edu.cn**. We will carefully review each application **to ensure that the dataset is used solely for academic research and other suitable purposes.**
+
 Upon approval of your application, **we will promptly reach out to you and provide the download link for the dataset.** To mitigate risks, we kindly ask that you refrain from dissemination the dataset without permission after obtaining it.
 We appreciate your cooperation and understanding.
-Dataset application form link: [form link](https://hiyuur.github.io/application/DroneSwarms Application Form.docx "Download application form").
+
+**Dataset application form link:** [Download application form](https://hiyuur.github.io/application/DroneSwarms Application Form.docx).
 
 ## More Details
 
